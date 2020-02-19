@@ -1,0 +1,15 @@
+{
+  "name": "gridsome-instantsearch-starter",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "algoliasearch": "^4.0.3",
+    "gridsome": "^0.7.13",
+    "instantsearch.css": "^7.4.2",
+    "vue-instantsearch": "^2.7.0"
+  }
+}
