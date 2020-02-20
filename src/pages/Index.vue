@@ -1,7 +1,7 @@
 <template>
   <Layout>
 
-    <div>
+    <ClientOnly>
       <div class="container">
         <ais-instant-search
           :search-client="searchClient"
@@ -36,7 +36,7 @@
           </div>
         </ais-instant-search>
       </div>
-    </div>
+    </ClientOnly>
 
   </Layout>
 </template>
