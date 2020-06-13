@@ -10,6 +10,6 @@
     "algoliasearch": "^4.3.0",
     "gridsome": "^0.7.17",
     "instantsearch.css": "^7.4.2",
-    "vue-instantsearch": "^2.7.1"
+    "vue-instantsearch": "^3.0.3"
   }
 }
